@@ -1,6 +1,6 @@
 -- =============================================================================
 -- HIPAA-Compliant Clinic Database Schema
--- Author: [Your Name]
+-- Author: Munaza Mumtaz
 -- Description: Relational database simulating a small clinic's patient
 --              management system, designed with HIPAA Privacy and Security
 --              Rule principles in mind.
